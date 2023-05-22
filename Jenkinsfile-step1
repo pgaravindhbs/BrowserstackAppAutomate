@@ -1,0 +1,22 @@
+pipeline {
+    agent any
+    environment {
+        BROWSERSTACK_USERNAME = credentials('BROWSERSTACK_USERNAME')
+        BROWSERSTACK_ACCESS_KEY = credentials('BROWSERSTACK_ACCESS_KEY')
+        browserstacktempusername1 = credentials('browserstacktempusername1')
+        browserstacktemppassword1 = credentials('browserstacktemppassword1')
+        pg_android_device_id = credentials('pg_android_device_id')
+                
+    }   
+    stages {
+      
+        stage('Execute App Automate Step 1') {
+            steps {
+                sh 'cd android/testng-examples'
+                sh 'sh step1_android.sh'
+                sh 'cd cd ../../ios/testng-examples'
+                sh 'sh step1_ios.sh'
+             }
+        }
+    }
+}
