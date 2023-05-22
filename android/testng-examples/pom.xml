@@ -107,7 +107,7 @@
                             <suiteXmlFiles>
                                 <suiteXmlFile>src/test/resources/com/browserstack/step1_android.testng.xml</suiteXmlFile>
                             </suiteXmlFiles>
-<!--                            <argLine>-javaagent:/Users/aravindhpg/.m2/repository/com/browserstack/browserstack-java-sdk/1.5.2/browserstack-java-sdk-1.5.2.jar</argLine>-->
+                           <argLine>-javaagent:/Users/aravindhpg/.m2/repository/com/browserstack/browserstack-java-sdk/1.5.2/browserstack-java-sdk-1.5.2.jar</argLine>
                         </configuration>
                     </plugin>
                 </plugins>
