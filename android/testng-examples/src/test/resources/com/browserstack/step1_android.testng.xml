@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="step1_android">
+    <test name="step1_android">
+        <classes>
+            <class name="com.browserstack.step1_android"/>
+        </classes>
+    </test>
+</suite>

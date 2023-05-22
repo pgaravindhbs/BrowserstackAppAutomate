@@ -1,0 +1,1 @@
+mvn clean install test -P step3_ios

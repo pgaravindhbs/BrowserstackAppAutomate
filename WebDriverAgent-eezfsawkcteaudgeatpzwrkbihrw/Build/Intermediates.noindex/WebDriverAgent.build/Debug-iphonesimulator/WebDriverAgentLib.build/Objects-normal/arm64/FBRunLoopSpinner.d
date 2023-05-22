@@ -1,0 +1,4 @@
+dependencies: \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Utilities/FBRunLoopSpinner.m \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Utilities/FBRunLoopSpinner.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Utilities/FBErrorBuilder.h

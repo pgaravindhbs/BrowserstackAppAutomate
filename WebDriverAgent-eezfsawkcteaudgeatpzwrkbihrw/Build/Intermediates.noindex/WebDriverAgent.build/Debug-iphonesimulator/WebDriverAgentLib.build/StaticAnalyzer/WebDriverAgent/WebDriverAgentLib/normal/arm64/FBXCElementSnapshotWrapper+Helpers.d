@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Categories/FBXCElementSnapshotWrapper+Helpers.m \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Categories/FBXCElementSnapshotWrapper+Helpers.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Routing/FBXCElementSnapshotWrapper.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Routing/FBXCElementSnapshot.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/CDStructures.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Routing/FBElement.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Commands/FBFindElementCommands.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Routing/FBCommandHandler.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Routing/FBCommandStatus.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Routing/FBHTTPStatusCodes.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Routing/FBResponsePayload.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Routing/FBRoute.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Utilities/FBRunLoopSpinner.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Utilities/FBLogger.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Utilities/FBXCAXClientProxy.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/XCTestDriver.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/XCDebugLogDelegate-Protocol.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/XCTestDriverInterface-Protocol.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/XCTestManager_TestsInterface-Protocol.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/XCTestManager_IDEInterface-Protocol.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/XCTestManager_ManagerInterface-Protocol.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Utilities/XCTestPrivateSymbols.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/XCUIElement.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Categories/XCUIElement+FBWebDriverAttributes.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/XCUIHitPointResult.h

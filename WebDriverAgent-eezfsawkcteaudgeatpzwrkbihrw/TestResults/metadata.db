@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FormatVersion</key>
+	<integer>1</integer>
+	<key>Store</key>
+	<dict>
+		<key>WebDriverAgentRunner</key>
+		<dict>
+			<key>System Failures</key>
+			<dict>
+				<key>WebDriverAgentRunner-Runner (29066) encountered an error</key>
+				<dict>
+					<key>mrnet</key>
+					<real>0.0</real>
+				</dict>
+				<key>WebDriverAgentRunner-Runner (47919) encountered an error</key>
+				<dict>
+					<key>mrnet</key>
+					<real>0.0</real>
+				</dict>
+				<key>WebDriverAgentRunner-Runner (48388) encountered an error</key>
+				<dict>
+					<key>mrnet</key>
+					<real>0.0</real>
+				</dict>
+				<key>WebDriverAgentRunner-Runner (7720) encountered an error</key>
+				<dict>
+					<key>mrnet</key>
+					<real>0.0</real>
+				</dict>
+				<key>WebDriverAgentRunner-Runner (95351) encountered an error</key>
+				<dict>
+					<key>mrnet</key>
+					<real>0.0</real>
+				</dict>
+				<key>WebDriverAgentRunner-Runner (96190) encountered an error</key>
+				<dict>
+					<key>mrnet</key>
+					<real>0.0</real>
+				</dict>
+				<key>WebDriverAgentRunner-Runner encountered an error</key>
+				<dict>
+					<key>mrnet</key>
+					<real>0.0</real>
+				</dict>
+			</dict>
+			<key>UITestingUITests</key>
+			<dict>
+				<key>testRunner</key>
+				<dict>
+					<key>mrnet</key>
+					<real>0.0</real>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Utilities/FBXCTestDaemonsProxy.m \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Utilities/FBXCTestDaemonsProxy.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/XCSynthesizedEventRecord.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Utilities/FBConfiguration.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/PrivateHeaders/AccessibilityUtilities/AXSettings.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/PrivateHeaders/UIKitCore/UIKeyboardImpl.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/PrivateHeaders/TextInput/TIPreferencesController.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Utilities/FBErrorBuilder.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Routing/FBExceptions.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Utilities/FBLogger.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Utilities/FBRunLoopSpinner.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/XCTestDriver.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/CDStructures.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/XCDebugLogDelegate-Protocol.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/XCTestDriverInterface-Protocol.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/XCTestManager_TestsInterface-Protocol.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/XCTestManager_IDEInterface-Protocol.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/XCTestManager_ManagerInterface-Protocol.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/XCTRunnerDaemonSession.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/XCEventGenerator.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/XCUIApplication.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/XCUIDevice.h

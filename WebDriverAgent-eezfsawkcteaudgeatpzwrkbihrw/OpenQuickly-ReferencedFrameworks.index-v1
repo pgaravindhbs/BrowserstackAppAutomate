@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>WebDriverAgentLib</string>
+	<string>CFNetwork</string>
+	<string>CoreGraphics</string>
+	<string>mach</string>
+	<string>net</string>
+	<string>dispatch</string>
+	<string>Security</string>
+	<string>XCTest</string>
+	<string>netinet</string>
+	<string>sys</string>
+	<string>MobileCoreServices</string>
+	<string>Photos</string>
+	<string>objc</string>
+	<string>UIKit</string>
+	<string>libxml</string>
+	<string>CoreLocation</string>
+	<string>Foundation</string>
+	<string>arpa</string>
+	<string>ImageIO</string>
+</array>
+</plist>

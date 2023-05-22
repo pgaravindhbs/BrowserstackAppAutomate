@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Categories/XCUIApplication+FBTouchAction.m \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Categories/XCUIApplication+FBTouchAction.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Routing/FBElementCache.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Utilities/FBAppiumActionsSynthesizer.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Utilities/FBBaseActionsSynthesizer.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Routing/FBXCElementSnapshot.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/CDStructures.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/XCUIApplication.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/XCSynthesizedEventRecord.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Utilities/FBConfiguration.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/PrivateHeaders/AccessibilityUtilities/AXSettings.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/PrivateHeaders/UIKitCore/UIKeyboardImpl.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/PrivateHeaders/TextInput/TIPreferencesController.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Routing/FBExceptions.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Utilities/FBLogger.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Utilities/FBRunLoopSpinner.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Utilities/FBW3CActionsSynthesizer.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Utilities/FBXCTestDaemonsProxy.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/PrivateHeaders/XCTest/XCEventGenerator.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Categories/XCUIElement+FBUtilities.h \
+  /Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgentLib/Routing/FBElement.h
