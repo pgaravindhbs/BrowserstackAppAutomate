@@ -102,7 +102,7 @@
               <suiteXmlFiles>
                 <suiteXmlFile>src/test/resources/com/browserstack/step1_ios.testng.xml</suiteXmlFile>
               </suiteXmlFiles>
-<!--              <argLine>-javaagent:${com.browserstack:browserstack-java-sdk:jar}</argLine>-->
+             <argLine>-javaagent:${com.browserstack:browserstack-java-sdk:jar}</argLine>
             </configuration>
           </plugin>
         </plugins>
@@ -153,7 +153,7 @@
               <suiteXmlFiles>
                 <suiteXmlFile>src/test/resources/com/browserstack/step3_ios.testng.xml</suiteXmlFile>
               </suiteXmlFiles>
-              <!--              <argLine>-javaagent:${com.browserstack:browserstack-java-sdk:jar}</argLine>-->
+                           <argLine>-javaagent:${com.browserstack:browserstack-java-sdk:jar}</argLine>
             </configuration>
           </plugin>
         </plugins>
