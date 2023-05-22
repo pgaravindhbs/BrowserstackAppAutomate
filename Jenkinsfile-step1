@@ -12,8 +12,10 @@ pipeline {
       
         stage('Execute App Automate Step 1') {
             steps {
+                sh 'pwd'
                 sh 'cd android/testng-examples'
                 sh 'sh step1_android.sh'
+                sh 'pwd'
                 sh 'cd cd ../../ios/testng-examples'
                 sh 'sh step1_ios.sh'
              }
