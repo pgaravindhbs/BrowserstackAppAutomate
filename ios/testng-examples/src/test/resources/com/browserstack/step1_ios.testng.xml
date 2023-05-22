@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="step1_ios">
+    <test name="step1_ios">
+        <classes>
+            <class name="com.browserstack.step1_iPhone"/>
+            <class name="com.browserstack.step1_iPad"/>
+        </classes>
+    </test>
+</suite>

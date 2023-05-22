@@ -1,0 +1,52 @@
+Target dependency graph (26 targets)
+WebDriverAgentLib_tvOS in WebDriverAgent, no dependencies
+WebDriverAgentRunner_tvOS in WebDriverAgent, depends on:
+WebDriverAgentLib_tvOS in WebDriverAgent (explicit)
+WebDriverAgentLib_tvOS in WebDriverAgent, no dependencies
+WebDriverAgentRunner_tvOS in WebDriverAgent, depends on:
+WebDriverAgentLib_tvOS in WebDriverAgent (explicit)
+UnitTests_tvOS in WebDriverAgent, depends on:
+WebDriverAgentLib_tvOS in WebDriverAgent (explicit)
+UnitTests_tvOS in WebDriverAgent, depends on:
+WebDriverAgentLib_tvOS in WebDriverAgent (explicit)
+WebDriverAgentLib in WebDriverAgent, no dependencies
+WebDriverAgentLib in WebDriverAgent, no dependencies
+WebDriverAgentLib in WebDriverAgent, no dependencies
+IntegrationApp in WebDriverAgent, no dependencies
+IntegrationTests_3 in WebDriverAgent, depends on:
+WebDriverAgentLib in WebDriverAgent (explicit)
+IntegrationApp in WebDriverAgent (explicit)
+IntegrationApp in WebDriverAgent, no dependencies
+IntegrationTests_3 in WebDriverAgent, depends on:
+WebDriverAgentLib in WebDriverAgent (explicit)
+IntegrationApp in WebDriverAgent (explicit)
+IntegrationTests_3 in WebDriverAgent, depends on:
+WebDriverAgentLib in WebDriverAgent (explicit)
+IntegrationTests_2 in WebDriverAgent, depends on:
+WebDriverAgentLib in WebDriverAgent (explicit)
+IntegrationApp in WebDriverAgent (explicit)
+IntegrationTests_2 in WebDriverAgent, depends on:
+WebDriverAgentLib in WebDriverAgent (explicit)
+IntegrationApp in WebDriverAgent (explicit)
+IntegrationTests_2 in WebDriverAgent, depends on:
+WebDriverAgentLib in WebDriverAgent (explicit)
+UnitTests in WebDriverAgent, depends on:
+WebDriverAgentLib in WebDriverAgent (explicit)
+UnitTests in WebDriverAgent, depends on:
+WebDriverAgentLib in WebDriverAgent (explicit)
+UnitTests in WebDriverAgent, depends on:
+WebDriverAgentLib in WebDriverAgent (explicit)
+IntegrationTests_1 in WebDriverAgent, depends on:
+WebDriverAgentLib in WebDriverAgent (explicit)
+IntegrationApp in WebDriverAgent (explicit)
+IntegrationTests_1 in WebDriverAgent, depends on:
+WebDriverAgentLib in WebDriverAgent (explicit)
+IntegrationApp in WebDriverAgent (explicit)
+IntegrationTests_1 in WebDriverAgent, depends on:
+WebDriverAgentLib in WebDriverAgent (explicit)
+WebDriverAgentRunner in WebDriverAgent, depends on:
+WebDriverAgentLib in WebDriverAgent (explicit)
+WebDriverAgentRunner in WebDriverAgent, depends on:
+WebDriverAgentLib in WebDriverAgent (explicit)
+WebDriverAgentRunner in WebDriverAgent, depends on:
+WebDriverAgentLib in WebDriverAgent (explicit)

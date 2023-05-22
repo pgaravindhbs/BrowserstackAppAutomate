@@ -1,0 +1,85 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "1c9600adccc55a33b03545a6d87785248e7bd7780332838f451036294a6268bc"
+    },
+    {
+      "guid" : "1c9600adccc55a33b03545a6d877852424e2361e738d8abb127ede3cfcefe041"
+    },
+    {
+      "guid" : "1c9600adccc55a33b03545a6d87785242069d3194b1eed1e5f17e15210d11d4e"
+    },
+    {
+      "guid" : "1c9600adccc55a33b03545a6d8778524641c629f314ec162a8fdcba495a07fc0"
+    },
+    {
+      "guid" : "1c9600adccc55a33b03545a6d8778524c67508897fe2c2532eb822fb34935a9c"
+    },
+    {
+      "guid" : "1c9600adccc55a33b03545a6d877852464d3cff6b6b63971345a86ddfd4721cd"
+    },
+    {
+      "guid" : "1c9600adccc55a33b03545a6d8778524acc1a2f2b88c75e54683459b54485f77"
+    },
+    {
+      "guid" : "1c9600adccc55a33b03545a6d87785242459b72a45457787cf604f1a3ad8fb44"
+    },
+    {
+      "guid" : "1c9600adccc55a33b03545a6d8778524da432e984c66fa0996664536674cf267"
+    },
+    {
+      "guid" : "1c9600adccc55a33b03545a6d8778524110a8e8b613739846fd7e22a0868102b"
+    }
+  ],
+  "containerPath" : "/Users/aravindhpg/node_modules/appium-xcuitest-driver/node_modules/appium-webdriveragent/WebDriverAgent.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/aravindhpg/Library/Developer/Xcode/DerivedData/WebDriverAgent-eezfsawkcteaudgeatpzwrkbihrw/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/aravindhpg/Library/Developer/Xcode/DerivedData/WebDriverAgent-eezfsawkcteaudgeatpzwrkbihrw/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/aravindhpg/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/aravindhpg/Library/Developer/Xcode/DerivedData/WebDriverAgent-eezfsawkcteaudgeatpzwrkbihrw/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/aravindhpg/Library/Developer/Xcode/DerivedData/WebDriverAgent-eezfsawkcteaudgeatpzwrkbihrw/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/aravindhpg/Library/Developer/Xcode/DerivedData/WebDriverAgent-eezfsawkcteaudgeatpzwrkbihrw/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/aravindhpg/Library/Developer/Xcode/DerivedData/WebDriverAgent-eezfsawkcteaudgeatpzwrkbihrw/Build/Products",
+      "pchPath" : "/Users/aravindhpg/Library/Developer/Xcode/DerivedData/WebDriverAgent-eezfsawkcteaudgeatpzwrkbihrw/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
