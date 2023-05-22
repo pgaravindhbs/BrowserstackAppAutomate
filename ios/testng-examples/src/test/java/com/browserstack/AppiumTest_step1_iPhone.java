@@ -28,7 +28,7 @@ public class AppiumTest_step1_iPhone {
 //        cap.setCapability("appActivity","org.wikipedia.main.MainActivity");
         cap.setCapability("automationName","XCUITest");
 //        cap.setCapability("app","/Users/aravindhpg/Library/Developer/Xcode/DerivedData/Wikipedia-blmottggraibtygvjzfkjjbhjxod/Build/Products/Debug-iphonesimulator/Wikipedia.app");
-        cap.setCapability("app","/Users/aravindhpg/Downloads/testng-appium-app-browserstack-sdk/ios/testng-examples/Payload/Wikipedia.app");
+        cap.setCapability("app","/Users/aravindhpg/Downloads/BrowserstackAppAutomate/ios/testng-examples/Payload/Wikipedia.app");
         cap.setCapability("WebDriverAgentURL","http://192.168.29.230:8100");
         cap.setCapability("derivedDataPath","/Users/aravindhpg/Library/Developer/Xcode/DerivedData/WebDriverAgent-eezfsawkcteaudgeatpzwrkbihrw");
         cap.setCapability("wdaLocalPort",8101);
