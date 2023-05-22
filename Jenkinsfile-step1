@@ -14,9 +14,11 @@ pipeline {
             steps {
                 sh 'pwd'
                 sh 'cd android/testng-examples'
+                sh 'pwd'
                 sh 'sh step1_android.sh'
                 sh 'pwd'
                 sh 'cd cd ../../ios/testng-examples'
+                sh 'pwd'
                 sh 'sh step1_ios.sh'
              }
         }
