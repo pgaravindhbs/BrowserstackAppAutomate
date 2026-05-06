@@ -5,3 +5,17 @@ local.log
 *.iml
 .DS_Store
 **/logs/*
+
+# Xcode build artifacts
+**/Build/
+**/Index.noindex/
+*.xcbuilddata
+*.msgpack
+DerivedData/
+
+# Secrets / credentials
+.env
+.env.*
+*.pem
+*.key
+credentials.json
